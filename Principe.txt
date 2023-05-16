@@ -1,0 +1,27 @@
+Balanced Monopoly :
+Un monopoly ou on n'achète une propriété que pour un certain nombre de tours.
+Si je tombe sur une case qui n'appartient à personne, je peux investir pour autant de tours que je veux (Ex 2 tours)
+Dans ce cas, je paye 2 fois le prix (Prix dégressif ?)
+
+Dés que je passe par-dessus cette case, le compteur baisse d'un
+Si je m'arrête sur une case qui m'appartient, je gagne le prix de la case * le nombre de cases de cette couleur en ma possession
+Si elle appartient a un adversare, je dois lui payer ce montant
+
+Cartes chance etc...
+Thune sur la case départ
+
+Objectif est de ruiner l'adversaire
+
+Infos sur une carte :
+
+Header de couleur
+Nom
+(Photo)
+Prix de la location -> 50 - 100 - 150 - 200
+Prix de la nuitée -> Prix de la rue (Tarif si on tombe dessus et que c'est loué)
+Prix de revente -> Moitié du prix de location
+
+Essayer: Tarif lorsque tombe chez les autres : Prix de la rue * nb Charge * nb rues même couleur
+
+Pour les gares, on n'achète rien. On peut payer pour aller à la prochaine gare, 50 par saut (On peut payer 150 pour sauter 2 gares etc...)
+Compagnies : On paye le chiffre du dé multiplié par 4 ou 8 (Vraie règle)
